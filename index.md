@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Summary of Qualifications
 
-You can use the [editor on GitHub](https://github.com/ibizavacations/ibizavacations.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- •	10+ years experience working with decision-makers and stakeholders
+-	Proven self-learner able to learn any tool or software needed to get something done
+-	Work permit for the US and the EU (ok with working abroad as needed)
+-	Experience delivering a wide array of projects on time and under budget
+-	Experience working with business users and backend developers to achieve optimal results
+-	A proven record of getting this completed while adapting to different people’s working styles
 
 ### Markdown
 
